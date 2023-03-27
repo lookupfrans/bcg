@@ -1,0 +1,10 @@
+@media all and (max-width: 670px) {
+
+  body {
+    width: 100%;
+  }
+
+  .wrapper {
+    margin:auto;
+  }
+}
